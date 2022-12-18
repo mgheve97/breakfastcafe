@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author MyComputer
+ *
+ */
+module BreakfastCafe {
+}
